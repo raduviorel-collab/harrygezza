@@ -9,6 +9,7 @@ const links = [
   { href: '#about',    label: 'About' },
   { href: '#studio',   label: 'Behind the Sound' },
   { href: '#releases', label: 'Music' },
+  { href: '#video',    label: 'Video' },
   { href: '#contact',  label: 'Booking' },
 ]
 
