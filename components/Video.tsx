@@ -1,7 +1,7 @@
 export default function Video() {
   return (
     <section
-      id="video"
+      id="show-must-go-on"
       className="relative py-16 md:py-28 px-5 md:px-6"
       style={{
         zIndex: 1,
@@ -25,7 +25,7 @@ export default function Video() {
             className="font-display font-black italic uppercase leading-[.92]"
             style={{ fontSize: 'clamp(2.4rem, 5.5vw, 5rem)' }}
           >
-            The <span className="gradient-text-warm">Video</span>
+            Show Must <span className="gradient-text-warm">Go On</span>
           </h2>
         </div>
 

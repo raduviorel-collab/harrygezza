@@ -9,7 +9,7 @@ const links = [
   { href: '#about',    label: 'About' },
   { href: '#studio',   label: 'Behind the Sound' },
   { href: '#releases', label: 'Music' },
-  { href: '#video',    label: 'Video' },
+  { href: '#show-must-go-on', label: 'Show Must Go On' },
   { href: '#contact',  label: 'Booking' },
 ]
 
